@@ -1,0 +1,2 @@
+# DebicaPad
+Nauka podstaw GIT
